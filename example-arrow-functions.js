@@ -23,7 +23,7 @@ var names = ['Andy', 'Kush', 'Mumuh'];
 // };
 //
 // person.greet();
-
+// Test git
 // Challenge Area
 function add(a, b) {
   return a + b;
